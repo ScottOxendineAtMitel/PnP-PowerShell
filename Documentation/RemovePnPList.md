@@ -18,12 +18,12 @@ Parameter|Type|Required|Description
 
 ###Example 1
 ```powershell
-PS:> Remove-PnPList -Title Announcements
+PS:> Remove-PnPList -Identity Announcements
 ```
 
 
 ###Example 2
 ```powershell
-PS:> Remove-PnPList -Title Announcements -Force
+PS:> Remove-PnPList -Identity Announcements -Force
 ```
 
